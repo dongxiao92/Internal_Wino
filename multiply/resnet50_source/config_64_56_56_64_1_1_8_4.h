@@ -1,0 +1,12 @@
+#define H 56
+#define W 56
+#define K 64
+#define C 64
+#define tile_count_h 28
+#define tile_count_w 28
+#define tile_num_h_per_kernel 8
+#define tile_num_w_per_kernel 4
+#define k_per_kernel 1
+#define c_per_kernel 1
+#define tile_height 4
+#define tile_width 4
